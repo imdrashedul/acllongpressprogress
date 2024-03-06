@@ -31,5 +31,5 @@ $("body").onLongPress({
 });
 ```
 
-# Preview
+# Sample
 ![alt text](https://github.com/imdrashedul/acllongpressprogress/blob/main/preview.gif?raw=true)
