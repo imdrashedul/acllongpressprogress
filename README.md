@@ -30,3 +30,6 @@ $("body").onLongPress({
     // rest are same as previous
 });
 ```
+
+# Preview
+![alt text](https://github.com/imdrashedul/acllongpressprogress/blob/main/preview.gif?raw=true)
